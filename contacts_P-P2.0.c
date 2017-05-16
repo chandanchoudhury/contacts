@@ -1,0 +1,1 @@
+/home/choudhury/Project/Lysozyme/Triad-Lysozyme/TL_Triads/100T/10pc_water/300K/I/analysis/contacts/contacts_P-P2.0.c
